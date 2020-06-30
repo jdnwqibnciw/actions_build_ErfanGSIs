@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sysupwsdl.vivo.com.cn/upgrade/recovery/recoveryFiles/20200526154501a044eccabf1a4fac4e1bb7404f1caa0a.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/evolution-x/platina/EvolutionX_4.4_platina-10.0-20200605-2204-OFFICIAL.zip
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:
