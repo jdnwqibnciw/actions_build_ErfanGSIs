@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/evolution-x/platina/EvolutionX_4.4_platina-10.0-20200605-2204-OFFICIAL.zip
-  ROM_NAME: Pixel
+  ROM_NAME: Generic 
   TZ: Asia/Shanghai
 
 jobs:
